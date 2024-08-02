@@ -1,0 +1,13 @@
+{
+  "name": "generalList",
+  "vocabs": [
+    {
+      "meaning": "a small domesticated carnivore",
+      "word": "cat"
+    },
+    {
+      "meaning": "a container, usually rectangular",
+      "word": "box"
+    }
+  ]
+}

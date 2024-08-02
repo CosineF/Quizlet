@@ -1,0 +1,13 @@
+{
+    "name": "My list",
+    "vocabs": [
+        {
+            "meaning": "past tense of see",
+            "word": "saw"
+        },
+        {
+            "meaning": "past tense of is",
+            "word": "was"
+        }
+    ]
+}

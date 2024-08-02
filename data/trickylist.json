@@ -1,0 +1,21 @@
+{
+    "name": "wrongList",
+    "vocabs": [
+        {
+            "meaning": "a group gathered for a special purpose or task",
+            "word": "party"
+        },
+        {
+            "meaning": "the cultivation of a particular branch of learning",
+            "word": "study"
+        },
+        {
+            "meaning": "a domesticated canid",
+            "word": "dog"
+        },
+        {
+            "meaning": "a container, usually rectangular",
+            "word": "box"
+        }
+    ]
+}

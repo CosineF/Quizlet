@@ -1,0 +1,41 @@
+{
+    "name": "fullList",
+    "vocabs": [
+        {
+            "meaning": "a small domesticated carnivore",
+            "word": "cat"
+        },
+        {
+            "meaning": "a domesticated canid",
+            "word": "dog"
+        },
+        {
+            "meaning": "a group gathered for a special purpose or task",
+            "word": "party"
+        },
+        {
+            "meaning": "the cultivation of a particular branch of learning",
+            "word": "study"
+        },
+        {
+            "meaning": "a seat, especially for one person",
+            "word": "chair"
+        },
+        {
+            "meaning": "a container, usually rectangular",
+            "word": "box"
+        },
+        {
+            "meaning": "a start of daily dialogues",
+            "word": "hi"
+        },
+        {
+            "meaning": "meaning of new",
+            "word": "new"
+        },
+        {
+            "meaning": "youbing",
+            "word": "abab"
+        }
+    ]
+}
